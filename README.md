@@ -49,7 +49,7 @@ PID已经有107年的历史了![img](https://mmbiz.qpic.cn/mmbiz_gif/ClS7iaIqI9f
 
 这三种作用有什么区别呢？客官别急，听我慢慢道来
 
-![](image/640 (1).gif)
+![](image/6402.gif)
 
 我们先只说PID控制器的三个最基本的参数：kP,kI,kD。
 
